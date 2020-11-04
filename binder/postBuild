@@ -3,4 +3,4 @@ set -eux
 
 env
 
-pip install -e .[all]
+pip install -e .
